@@ -5,6 +5,8 @@
 - ~$30 [Wuben G5](https://www.wubenlight.com/products/wuben-g5-edc-light) - it might be even cheaper on Ali.
 - ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
 - ~$40 [Baseus Laptop Stand](https://www.aliexpress.com/item/1005006863950054.html)
+- ~$55 [Radiomaster Nomad](https://www.aliexpress.com/item/1005008089279744.html)
+- ~$65 [Radiomaster AG01 NANO CNC Hall Gimbals Set For Pocket](https://www.aliexpress.com/item/1005008114193145.html)
 - ~$75 [Fnirsi SAG-55](https://www.aliexpress.com/item/1005008672384738.html)
 - ~$85 [Fnirsi DPS-150](https://www.aliexpress.com/item/1005007615454524.html)
 - ~$100 [Samsung T9 1Tb](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t9-usb-3-2-1tb-black-mu-pg1t0b-am/)
