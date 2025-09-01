@@ -9,6 +9,7 @@
 - ~$75 [Fnirsi SAG-55](https://www.aliexpress.com/item/1005008672384738.html)
 - ~$85 [Fnirsi DPS-150](https://www.aliexpress.com/item/1005007615454524.html)
 - ~$120 [FNIRSI-1013D](https://www.aliexpress.com/item/4000861098295.html)
+- ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
 
 ## Expensive
 
