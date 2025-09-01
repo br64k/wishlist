@@ -11,6 +11,7 @@
 - ~$120 [FNIRSI-1013D](https://www.aliexpress.com/item/4000861098295.html)
 - ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
 - ~$30 [Wuben G5](https://www.wubenlight.com/products/wuben-g5-edc-light) - it might be even cheaper on Ali.
+- ~$40 [Baseus Laptop Stand](https://www.aliexpress.com/item/1005006863950054.html)
 
 ## Expensive
 
