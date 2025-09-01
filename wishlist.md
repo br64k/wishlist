@@ -2,16 +2,17 @@
 
 ## Inexpensive
 
+- ~$30 [Wuben G5](https://www.wubenlight.com/products/wuben-g5-edc-light) - it might be even cheaper on Ali.
+- ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
+- ~$40 [Baseus Laptop Stand](https://www.aliexpress.com/item/1005006863950054.html)
+- ~$75 [Fnirsi SAG-55](https://www.aliexpress.com/item/1005008672384738.html)
+- ~$85 [Fnirsi DPS-150](https://www.aliexpress.com/item/1005007615454524.html)
+- ~$100 [Samsung T9 1Tb](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t9-usb-3-2-1tb-black-mu-pg1t0b-am/)
 - <$100 Pinecil with set of tips:
   - [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
   - [PINECIL Soldering Short Tip Set (Gross)](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
   - [PINECIL Threaded Insert Tips Set and Adapter](https://pine64.com/product/pinecil-threaded-insert-tips-set-and-adapter/)
-- ~$75 [Fnirsi SAG-55](https://www.aliexpress.com/item/1005008672384738.html)
-- ~$85 [Fnirsi DPS-150](https://www.aliexpress.com/item/1005007615454524.html)
 - ~$120 [FNIRSI-1013D](https://www.aliexpress.com/item/4000861098295.html)
-- ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
-- ~$30 [Wuben G5](https://www.wubenlight.com/products/wuben-g5-edc-light) - it might be even cheaper on Ali.
-- ~$40 [Baseus Laptop Stand](https://www.aliexpress.com/item/1005006863950054.html)
 
 ## Expensive
 
