@@ -14,6 +14,7 @@
   - [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
   - [PINECIL Soldering Short Tip Set (Gross)](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
   - [PINECIL Threaded Insert Tips Set and Adapter](https://pine64.com/product/pinecil-threaded-insert-tips-set-and-adapter/)
+- ~$120 [Kensington Trackball](https://www.kensington.com/p/products/electronic-control-solutions/trackball-products/slimblade-pro-trackball/)
 - ~$120 [FNIRSI-1013D](https://www.aliexpress.com/item/4000861098295.html)
 
 ## Expensive
