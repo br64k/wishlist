@@ -19,7 +19,6 @@
 
 ## Expensive
 
-- ~$240 [Keychron Q4 HE](https://www.keychron.com/products/keychron-q4-he-qmk-wireless-custom-keyboard)
 - ~$500 [Bambulab A1 Combo](https://us.store.bambulab.com/products/a1?id=579550514255634440)
 
 ## Are you kidding?
