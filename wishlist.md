@@ -2,6 +2,7 @@
 
 ## Inexpensive
 
+- ~$20 [Sticks for Radiomaster Pocket](https://www.aliexpress.com/item/1005007922289012.html)
 - ~$30 [Wuben G5](https://www.wubenlight.com/products/wuben-g5-edc-light) - it might be even cheaper on Ali.
 - ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
 - ~$40 [Baseus Laptop Stand](https://www.aliexpress.com/item/1005006863950054.html)
