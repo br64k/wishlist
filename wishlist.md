@@ -5,6 +5,7 @@
 - ~$30 [Wuben G5](https://www.wubenlight.com/products/wuben-g5-edc-light) - it might be even cheaper on Ali.
 - ~$35 [Mitutoyo Digital Caliper](https://www.aliexpress.com/item/1005008798461422.html)
 - ~$40 [Baseus Laptop Stand](https://www.aliexpress.com/item/1005006863950054.html)
+- ~$48 [Mijia Computer Monitor Light Bar](https://www.aliexpress.com/item/1005006904690207.html)
 - ~$55 [Radiomaster Nomad](https://www.aliexpress.com/item/1005008089279744.html)
 - ~$65 [Radiomaster AG01 NANO CNC Hall Gimbals Set For Pocket](https://www.aliexpress.com/item/1005008114193145.html)
 - ~$75 [Fnirsi SAG-55](https://www.aliexpress.com/item/1005008672384738.html)
@@ -28,7 +29,3 @@
 
 - ~$700 [Xreal One Pro](https://us.shop.xreal.com/products/xreal-one-pro)
 
-## For my mom
-
-- 16 inch MacBook Pro with 48gb of RAM and 1Tb drive
-- Toyota Prius 2025
