@@ -13,6 +13,7 @@
 - ~$75 [Fnirsi SAG-55](https://www.aliexpress.com/item/1005008672384738.html)
 - ~$85 [Fnirsi DPS-150](https://www.aliexpress.com/item/1005007615454524.html)
 - ~$100 [Samsung T9 1Tb](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t9-usb-3-2-1tb-black-mu-pg1t0b-am/)
+- <$100 Saddle chair
 - <$100 Pinecil with set of tips:
   - [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
   - [PINECIL Soldering Short Tip Set (Gross)](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
